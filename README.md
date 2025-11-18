@@ -1,4 +1,4 @@
-# Demo zu meinen Vortrag Datensouveränes Lakehouse: Offene Formate wie Apache Iceberg, Delta & Co
+# Demo zu meinen Vortrag Datensouveränes Lakehouse: Offene Formate wie Apache Iceberg, Delta & Co, DOAG 2025
 Diese Seite enthält ein unter Google Colab auführbares Notebook mit Demos zu
 * Demo Delta Schema Evolution
 * Demo Iceberg Copy on write vs merge on read
